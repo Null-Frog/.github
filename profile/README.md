@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.svg" alt="Null Frog" width="140" height="140" />
+<img src="./assets/logo.svg" alt="Null Frog" width="150" height="99" />
 <h3>Null Frog</h3>
 <p>Hop, then figure it out.</p>
 
